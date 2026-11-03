@@ -1,0 +1,37 @@
+{
+  "business": "Moos Matcha Bar (an example: a walk-in matcha café in Berlin)",
+  "target": "Young professionals and students, 22 to 38, in Berlin Mitte and Prenzlauer Berg, who buy a coffee or tea out most days",
+  "where": "Berlin, around Rosenthaler Platz",
+  "currency": "EUR",
+  "age": [22, 38],
+  "segments": [
+    {"name": "Student or trainee", "share": 0.25, "income": [9000, 22000]},
+    {"name": "Early-career professional", "share": 0.45, "income": [38000, 60000]},
+    {"name": "Senior professional or tech worker", "share": 0.30, "income": [60000, 105000]}
+  ],
+  "behaviours": [
+    {"name": "Daily regular", "share": 0.18, "how": "Buys the same drink at the same place most mornings."},
+    {"name": "Health-first", "share": 0.16, "how": "Reads ingredients, prefers bio and plant-based, swaps coffee for anything that feels cleaner."},
+    {"name": "Trend chaser", "share": 0.14, "how": "Tries whatever is new and posts it on Instagram."},
+    {"name": "Preis-Leistung", "share": 0.16, "how": "Compares prices, thinks a drink should be worth what it costs, brings a Thermos from home most days."},
+    {"name": "Sustainability-minded", "share": 0.12, "how": "Brings a reusable cup, cares about single-use plastic, organic and where the matcha comes from."},
+    {"name": "Loyal to their Späti or café", "share": 0.12, "how": "Has a favourite spot round the corner where the staff know them."},
+    {"name": "Reads every review", "share": 0.12, "how": "Checks Google Maps ratings before trying anywhere new."}
+  ],
+  "objections": [
+    "5,90 € is a lot for a drink",
+    "My usual café is closer",
+    "Does matcha actually taste good, or is it just Instagram?",
+    "Is it really healthier than coffee?",
+    "I need somewhere to sit and work with my laptop",
+    "Do they take card, or cash only?",
+    "Single-use cups again?",
+    "I'd try it once, not every day"
+  ],
+  "habits": [
+    "you cycle past Rosenthaler Platz on the way to work",
+    "you work from home three days a week",
+    "you meet friends for brunch on Sundays",
+    "you study at a library near the U8"
+  ]
+}

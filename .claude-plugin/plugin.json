@@ -1,0 +1,35 @@
+{
+  "name": "founder-skill-eu",
+  "description": "Eleven Claude skills that test a business before you launch it, adapted for Europe and Germany: euros and VAT-inclusive prices, Kleinunternehmer, German payroll costs, GDPR and EU consumer law, DPMA and EUIPO checks. Fork of founder-skill by Jake Schincariol. MIT.",
+  "version": "1.0.0-eu",
+  "author": {
+    "name": "Abdul Faiz (AbdulFaiz123)",
+    "url": "https://github.com/AbdulFaiz123"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "startup",
+    "business-plan",
+    "unit-economics",
+    "vat",
+    "germany",
+    "eu",
+    "subagents"
+  ],
+  "contributors": [
+    {
+      "name": "Abdul Faiz",
+      "url": "https://github.com/AbdulFaiz123"
+    },
+    {
+      "name": "Claude (Anthropic)",
+      "url": "https://claude.com/claude-code"
+    },
+    {
+      "name": "Jake Schincariol (original founder-skill)",
+      "url": "https://github.com/Jakeschincariol"
+    }
+  ]
+}

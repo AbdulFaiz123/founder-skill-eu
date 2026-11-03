@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "founder-skill-eu",
+  "description": "The Founder skill pack for Claude, EU edition",
+  "owner": {
+    "name": "Abdul Faiz (AbdulFaiz123)",
+    "url": "https://github.com/AbdulFaiz123"
+  },
+  "plugins": [
+    {
+      "name": "founder-skill-eu",
+      "description": "Eleven Claude skills that test a business before you launch it, adapted for Europe and Germany.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

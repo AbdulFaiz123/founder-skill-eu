@@ -1,0 +1,41 @@
+{
+  "business": "Moos Matcha Bar (an example: a walk-in matcha café in Berlin)",
+  "unit": "cup",
+  "currency": "EUR",
+  "number_format": "de",
+  "price": "5,90",
+  "price_includes_vat": true,
+  "vat_rate": 0.19,
+  "variable": [
+    {"label": "Matcha (ceremonial, 2g)", "cost": 0.78},
+    {"label": "Oat milk", "cost": 0.32},
+    {"label": "Cup, lid, straw", "cost": 0.21},
+    {"label": "Card fees (~1.4%)", "cost": 0.08}
+  ],
+  "payroll": [
+    {"label": "Barista, full time", "gross_monthly": 2600, "kind": "regular"},
+    {"label": "Barista, full time", "gross_monthly": 2600, "kind": "regular"},
+    {"label": "Weekend help", "gross_monthly": 603, "kind": "minijob"},
+    {"label": "Weekend help", "gross_monthly": 603, "kind": "minijob"}
+  ],
+  "fixed_monthly": [
+    {"label": "Rent + Nebenkosten", "cost": 3200},
+    {"label": "Electricity, water", "cost": 320},
+    {"label": "Steuerberater", "cost": 250},
+    {"label": "Insurance + Berufsgenossenschaft", "cost": 120},
+    {"label": "POS with TSE, software", "cost": 80}
+  ],
+  "startup": [
+    {"label": "Rent deposit (3 months cold rent)", "cost": 7500},
+    {"label": "Fit-out", "cost": 9000},
+    {"label": "Equipment", "cost": 6500},
+    {"label": "Signage", "cost": 1500},
+    {"label": "Opening inventory", "cost": 1800},
+    {"label": "Gewerbeanmeldung, permits, hygiene training", "cost": 250},
+    {"label": "Launch ads", "cost": 1200}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 450,
+  "plan_per_day": 260,
+  "ramp_per_day": [90, 115, 140, 160, 180, 195, 210, 220, 230, 240, 250, 260]
+}
